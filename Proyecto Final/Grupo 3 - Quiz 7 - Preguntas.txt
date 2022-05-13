@@ -1,0 +1,15 @@
+Preguntas para grupos
+Ericka Céspedes
+Esteban González
+
+Para grupo 1 - Por qué recomiendan los cuda cores? Y cómo se pueden usar?
+Son los procesadores gráficos de Nvidia y los recomendamos porque computan las convolusiones mucho mejor que los CPU, se pueden usar instalando los correspondientes Drivers y librerias.
+
+Para grupo 2 - El diseño que proponen lo proponen también para emociones o solo para rostros? Porque me parece que mencionaron mucha información de reconocimiento de rostros, pero no de emociones.
+Para ambos utilizaremos el mismo diseño.
+
+Para grupo 4 - Para qué van utilizar Keras? No me quedó claro si era para la red neuronal o para validar al final. Además, cómo enfrentarán la tasa de verdaderos positivos y falsos positivos al utilizar esta función?
+Para validar al final. Había un gráfico con esta información de falsos positivos y negativos, pero no la tengo actualmente.
+
+Para grupo 5 - Los filtros de Gar los utilizarán para reconocimiento de rostros o emociones? Esto se realiza como preprocesamiento de la mano con las redes convolucionales?
+Solamente para el reconocimiento de emociones, como preprocesamiento de la imagen y según los artículos que investigamos sí se utiliza mucho con redes convolucionales.
